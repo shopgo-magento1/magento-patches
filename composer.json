@@ -1,0 +1,8 @@
+{
+    "name": "shopgo/magento-ce-patches",
+    "type": "magento-module",
+    "description": "Magento community edition patches",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
