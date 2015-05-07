@@ -1,1 +1,0 @@
-# Magento Community Edition Patches #
