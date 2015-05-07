@@ -1,0 +1,4 @@
+Prevents repeated SOAP index page call issue from causing customers to only see the Magento installation page - Added Aug 12, 2014
+
+Note: please find details on this patch here:
+http://www.magentocommerce.com/knowledge-base/entry/ce19-later-release-notes#ce19-patches
