@@ -4,5 +4,10 @@
     "description": "Magento community edition 1.x patches",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            ["patches", "shopgo/patches"]
+        ]
     }
 }
